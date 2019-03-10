@@ -33,11 +33,11 @@ great_inc3=great_inc[2]
 great_dec2=great_dec[1]
 great_dec3=great_dec[2]
 print("--------------------------------------------")    
-print("Total de mi numero de meses:" + str(numeroMeses))
+print("Number of Months :" + str(numeroMeses))
 print("\n")
-print("Total de valores: $" + str(total_AVLOS))
+print("Total de values: $" + str(total_AVLOS))
 print("\n")
-print("Promedio de cambios: $" + str(changes_AVLOS / numeroMeses))
+print("Average: $" + str(changes_AVLOS / numeroMeses))
 print("\n")
 print("Greatest Increase in Profits: " + str(great_inc2) + "( $" + str(great_inc3) + ")")
 print("\n") 
